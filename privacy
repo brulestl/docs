@@ -1,0 +1,58 @@
+Privacy Policy for EchoZen
+Last updated: 2025‑04‑12
+
+1. Introduction
+EchoZen (“we”, “us”, “our”) provides live voice‑guided mindfulness sessions. This Privacy Policy explains how we handle your data when you use our mobile app (“App”).
+
+2. Information We Collect
+Microphone Access
+
+We request access to your device’s microphone only to enable live, real‑time voice sessions.
+
+We do not record, store, or transmit your audio outside of the live session.
+
+Analytics & Crash Reporting
+
+We may collect anonymous usage data (screens visited, session length) via Firebase Analytics to improve the App.
+
+Crash logs (no personal data) may be sent to our crash‑reporting service.
+
+Purchases
+
+We use RevenueCat to manage in‑app subscriptions and one‑time purchases. RevenueCat may collect your device identifiers and purchase receipts to validate entitlements.
+
+3. How We Use Your Data
+Microphone: To transmit audio during live sessions only.
+
+Analytics: To understand feature usage and improve performance.
+
+Purchases: To unlock premium content and manage subscriptions.
+
+4. Third‑Party Services
+Firebase (Google): Analytics, crash reporting, authentication, and data storage.
+
+RevenueCat: In‑app purchase and subscription management.
+
+We do not share your raw audio with any third party.
+
+5. Data Retention & Security
+We retain analytics data for up to 24 months, then delete it.
+
+All data in transit is encrypted (HTTPS / TLS).
+
+We follow industry‑standard security practices to protect your information.
+
+6. Children’s Privacy
+EchoZen is not intended for children under 13. We do not knowingly collect personal data from minors.
+
+7. Your Rights
+You can revoke microphone permission in your device settings (which will disable live sessions).
+
+You can request deletion of your analytics data by contacting us (see below).
+
+8. Changes to This Policy
+We may update this policy occasionally. The “Last updated” date at the top will reflect changes.
+
+9. Contact Us
+If you have any questions or requests, email us at:
+echozenappfirebase@gmail.com
